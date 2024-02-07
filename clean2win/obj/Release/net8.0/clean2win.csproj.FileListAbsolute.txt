@@ -1,0 +1,15 @@
+C:\Users\stagesi2\source\repos\clean2win\clean2win\bin\Release\net8.0\clean2win.exe
+C:\Users\stagesi2\source\repos\clean2win\clean2win\bin\Release\net8.0\clean2win.deps.json
+C:\Users\stagesi2\source\repos\clean2win\clean2win\bin\Release\net8.0\clean2win.runtimeconfig.json
+C:\Users\stagesi2\source\repos\clean2win\clean2win\bin\Release\net8.0\clean2win.dll
+C:\Users\stagesi2\source\repos\clean2win\clean2win\bin\Release\net8.0\clean2win.pdb
+C:\Users\stagesi2\source\repos\clean2win\clean2win\obj\Release\net8.0\clean2win.csproj.ResolveComReference.cache
+C:\Users\stagesi2\source\repos\clean2win\clean2win\obj\Release\net8.0\clean2win.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stagesi2\source\repos\clean2win\clean2win\obj\Release\net8.0\clean2win.AssemblyInfoInputs.cache
+C:\Users\stagesi2\source\repos\clean2win\clean2win\obj\Release\net8.0\clean2win.AssemblyInfo.cs
+C:\Users\stagesi2\source\repos\clean2win\clean2win\obj\Release\net8.0\clean2win.csproj.CoreCompileInputs.cache
+C:\Users\stagesi2\source\repos\clean2win\clean2win\obj\Release\net8.0\clean2win.dll
+C:\Users\stagesi2\source\repos\clean2win\clean2win\obj\Release\net8.0\refint\clean2win.dll
+C:\Users\stagesi2\source\repos\clean2win\clean2win\obj\Release\net8.0\clean2win.pdb
+C:\Users\stagesi2\source\repos\clean2win\clean2win\obj\Release\net8.0\clean2win.genruntimeconfig.cache
+C:\Users\stagesi2\source\repos\clean2win\clean2win\obj\Release\net8.0\ref\clean2win.dll
